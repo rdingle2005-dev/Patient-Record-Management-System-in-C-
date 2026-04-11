@@ -36,3 +36,7 @@ A console-based patient management system built in C++ that demonstrates object-
 ---
 
 ## 📂 Project Structure
+
+src/source files
+include/header files
+data/saved patient records
