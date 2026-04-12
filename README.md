@@ -35,19 +35,19 @@ A console-based patient management system built in C++ that demonstrates object-
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - src/source files
 - include/header files
 - data/saved patient records
 
 ## What I Learned
--Implementing linked lists from scratch
--Designing scalable class structures using OOP
--Improving search efficiency using binary search indexing
--Handling real-world constraints like scheduling conflicts and data validation
+- Implementing linked lists from scratch
+- Designing scalable class structures using OOP
+- Improving search efficiency using binary search indexing
+- Handling real-world constraints like scheduling conflicts and data validation
 
 ## Future Improvements
-Add appointment time (not just date)
-GUI interface (Qt or web-based)
-Multiple appointments per patient
+- Add appointment time (not just date)
+- GUI interface (Qt or web-based)
+- Multiple appointments per patient
