@@ -35,7 +35,7 @@ A console-based patient management system built in C++ that demonstrates object-
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - src/source files
 - include/header files
@@ -48,6 +48,6 @@ A console-based patient management system built in C++ that demonstrates object-
 -Handling real-world constraints like scheduling conflicts and data validation
 
 ## Future Improvements
-Add appointment time (not just date)
-GUI interface (Qt or web-based)
-Multiple appointments per patient
+- Add appointment time (not just date)
+- GUI interface (Qt or web-based)
+- Multiple appointments per patient
